@@ -5,9 +5,10 @@
 Настройка окружения
 
 Для запуска проекта необходимо:
-1) Скопировать проект на ПК с Git
-2) Запустить проект в IntelliG IDEA
-3) В браузере Google Chrome открыть ссылку http://localhost:8189/habr
+Склонировать проект с github.com по ссылке https://github.com/VicNA/simple-habr.git
+Запустить проект в IntelliJ IDEA (метод main в классе HabrApplication)
+В браузере Google Chrome открыть ссылку http://localhost:8189/habr
+
 
 Требования к системе: Java 11, Google Chrome версии 107 >
 
